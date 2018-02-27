@@ -1,5 +1,9 @@
 package chap01.iterator;
 
+/**
+ * @author whitebeard-k
+ *
+ */
 public class BookShelf implements Aggregate<Book> {
 
 	private Book[] books;

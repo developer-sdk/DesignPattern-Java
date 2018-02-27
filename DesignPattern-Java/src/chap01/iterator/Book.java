@@ -1,5 +1,9 @@
 package chap01.iterator;
 
+/**
+ * @author whitebeard-k
+ *
+ */
 public class Book {
 	private String name;
 	
